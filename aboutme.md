@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: A site by a librarian for students
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ryan. I am a librarian at A University. I made this site for a studio art class to explore some DH tools while experimenting with creating digital exhibits. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a big fan of, 
 
-What else do you need?
+- Studio Ghibli films
+- Peach season in Southern Ontario
 
-### My story
+The art students like, 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Ambient music
+- Being broke 
+
+## We hope you like the projects we eventually post here. 
