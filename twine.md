@@ -14,4 +14,6 @@ The [Twine Cookbook](https://twinery.org/cookbook/) is an essential guide when s
 
 Also take a look through [Twine Reference](https://twinery.org/reference/en/). It is a reference guide for the Twine editor and introduces the interface. 
 
+Last but not least, take a look at this awesome review a colleague of mine wrote: [Twine Review by Tasha Hawrychuk](https://fimsdhlib.github.io/twine-hawrychuk/) 
+
 More tutorials to come... 
