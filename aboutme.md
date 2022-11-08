@@ -4,7 +4,7 @@ title: About
 subtitle: A site by a librarian for students
 ---
 
-My name is Ryan. I am a librarian at A University. I made this site for a studio art class to explore some DH tools while experimenting with creating digital exhibits. 
+My name is Ryan. I am a librarian at Eh University. I made this site for a studio art class to explore some DH tools while experimenting with creating digital exhibits. 
 
 I am a big fan of, 
 
