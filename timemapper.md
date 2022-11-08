@@ -9,7 +9,7 @@ Visit [Timemapper](https://timemapper.okfnlabs.org/).
 Timemapper has the ability to combine text, media, maps, and timelines into a digital exhibit. In terms of public art, there is plenty of potential to organize and document projects with this tool. In this course, a group creating a series of public artworks could map and document their project to act as a guide, making the project accessible to a wider audience, and for preservation.
 This tool has a standardized format for design and including metadata is essential to project building.
 
-Check out this example project too: [Example](http://timemapper.okfnlabs.org/rrrivando/7wondersancientworld)
+Check out this example project too: [Example](https://timemapper.okfnlabs.org/arielsegal/harlem1) 
 
 Quick start video
 
