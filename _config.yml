@@ -22,10 +22,10 @@ author: VISA 2F00
 navbar-links:
   About: "aboutme"
   Resources:
-    - Artsteps: "https://beautifuljekyll.com"
-    - Timemapper: "https://www.markdowntutorial.com/"
-    - Twine
-  Projects: "https://deanattali.com"
+    - Artsteps: "artsteps"
+    - Timemapper: "timemapper"
+    - Twine: "twine"
+  Projects: "projects"
 
 ################
 # --- Logo --- #
