@@ -4,14 +4,14 @@ title: Timemapper
 subtitle: elegant timelines and maps created in seconds
 ---
 
-####Visit [Timemapper](https://timemapper.okfnlabs.org/). 
+Visit [Timemapper](https://timemapper.okfnlabs.org/). 
 
 Timemapper has the ability to combine text, media, maps, and timelines into a digital exhibit. In terms of public art, there is plenty of potential to organize and document projects with this tool. In this course, a group creating a series of public artworks could map and document their project to act as a guide, making the project accessible to a wider audience, and for preservation.
 This tool has a standardized format for design and including metadata is essential to project building.
 
 Check out this example project too: [Example](http://timemapper.okfnlabs.org/rrrivando/7wondersancientworld)
 
-#####Quick start video
+Quick start video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lCpilatN9yE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
