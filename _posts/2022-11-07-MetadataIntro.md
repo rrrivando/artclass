@@ -15,4 +15,4 @@ In the context of art and collection building we need to think about the details
 Later in the semester we will be taking a look at the virual exhibit builder, Artsteps. Below is an example illustrating the difference between data and metadata and what type of metadata is important when building an exhibit with this tool.
 
 ![Screen capture of Artsteps with highlighted sections showing metadata and data][metadata example]
-[metadata example](assets/img/metadata_eg.png)
+[metadata example](https://github.com/rrrivando/artclass.git/assets/img/metadata_eg.png)
